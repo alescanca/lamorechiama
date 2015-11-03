@@ -1,6 +1,7 @@
 markdown: kramdown
 timezone: Europe/Rome
 future: false
+baseurl: lamorechiama
 defaults:
   -
     scope:
