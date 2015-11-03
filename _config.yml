@@ -1,6 +1,7 @@
 markdown: kramdown
 timezone: Europe/Rome
 future: false
+favicon: /logo-5p2p-128.png
 baseurl: /lamorechiama
 defaults:
   -
